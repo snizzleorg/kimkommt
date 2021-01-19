@@ -34,4 +34,3 @@ exclude:
   - SECURITY.md
   - vendor
 
-theme: jekyll-theme-cayman
