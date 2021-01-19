@@ -33,3 +33,5 @@ exclude:
   - README.md
   - SECURITY.md
   - vendor
+
+theme: jekyll-theme-cayman
