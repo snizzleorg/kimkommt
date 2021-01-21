@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About Me
+title: über kim
 author: Johnathan Smith
 image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png

@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hallo! <br> kim <br> kommt
+  hero-title: <i>K</i>ultur<i>I</i>nstitut<i>M</i>obil
 
 social:
 - {icon: "ti-facebook", link: "#"}
@@ -77,18 +77,25 @@ work-process:
 
 # My Team Section
 team:
-  - title : "Jack Schenziwe"
+  - title : "Gabriele Reuter"
     image : "assets/images/team/member-1.png"
-    designation : "Project Manager"
+    designation : "Konzept"
     
-  - title : "Julias Carlie"
+  - title : "Zoé Duflot"
     image : "assets/images/team/member-2.png"
-    designation : "Web Developer"
+    designation : "Kommunikation"
     
-  - title : "John Doe"
+  - title : "Veronika Wagner"
     image : "assets/images/team/member-3.png"
-    designation : "Designer"
+    designation : "Produktion"
 
+  - title : "Sophie Jahnke"
+    image : "assets/images/team/member-3.png"
+    designation : "Grafik"
+
+  - title : "Susanne Martin"
+    image : "assets/images/team/member-3.png"
+    designation : "Konzept"
 
 #-------------------------------
 # Skills Section
@@ -154,7 +161,7 @@ team:
 # Portfolio Home Section
 portfolio-home-items:
   - image : "assets/images/portfolio/item-1.png"
-    url: "#"
+    url: "salon"
     
 #  - image : "assets/images/portfolio/item-2.png"
 #    url: "#"
