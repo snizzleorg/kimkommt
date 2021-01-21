@@ -11,7 +11,7 @@ address: 125/A, CA Commercial Area, California, USA
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
-- {name: About, link: '/about'}
+- {name: About, link: 'kimkommt/about'}
 - {name: Blog, link: '/blog'}
 - {name: Portfolio, link: '/portfolio'}
 - {name: Contact, link: '/contact'}
@@ -54,7 +54,7 @@ social:
 blurb:
   KIM – das KulturInstitutMobil taucht an verschiedenen Plätzen im Stadtraum auf. Ursprünglich war KIM ein Lastenrad, das von der Ausbildungsinitiative ARRIVO BERLIN zum KulturInstitutMobil umgebaut wurde. Es bringt wetterfeste, multifunktionale Möbel mit (Sitzgelegenheiten, Stehtische, Flipcharts, einfache Designelemente, batteriebetriebenes Licht und Ton) und eignet sich für jegliche Art von kulturellen Veranstaltungen, die an bisher unerschlossenen Orten im Stadtraum stattfinden. KIM ist autark und improvisationsfähig, hinterlässt keine Spuren und kann sich allen Umständen der Unplanbarkeit bestens anpassen.
 
-blurb-btn-link: '/about'
+blurb-btn-link: '/kimkommt/about'
 blurb-btn-name: über uns
 
 
