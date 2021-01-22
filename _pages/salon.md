@@ -3,7 +3,6 @@ layout: veranstaltungen
 title: Salon Raumverstehen
 author: Gabriele Reuter
 image: assets/images/salon/210121_KIM-Salon_Zeichenfläche_1.png
-signature: assets/images/about/signature.png
 ---
 
 Im Frühling und Sommer 2021 werden an verschiedenen Orten in Berlin vier Salonières stattfinden, die sich mit dem jeweils bespielten Raum beschäftigen. Jeder Salon wird von einem*r Ko-Kurator*in bespielt und von Gabriele Reuter und Susanne Martin moderiert. 
