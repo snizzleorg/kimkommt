@@ -2,7 +2,7 @@
 layout: veranstaltungen
 title: Salon Raumverstehen
 author: Gabriele Reuter
-image: assets/images/about/author.jpg
+image: assets/images/salon/210121_KIM-Salon_Zeichenfläche_1.png
 signature: assets/images/about/signature.png
 ---
 
