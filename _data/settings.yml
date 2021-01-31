@@ -11,12 +11,12 @@ address: 125/A, CA Commercial Area, California, USA
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
-- {name: über Kim, link: '/about'}
-- {name: Projekte, link: '/projekte'}
-- {name: Termine, link: '/termine'}
-- {name: Team, link: '/team'}
-- {name: Kim Mieten, link: '/mieten'}
-- {name: Newsletter, link: '/contact'}
+- {name: über Kim, link: 'about'}
+- {name: Projekte, link: 'projekte'}
+- {name: Termine, link: 'termine'}
+- {name: Team, link: 'team'}
+- {name: Kim Mieten, link: 'mieten'}
+- {name: Newsletter, link: 'contact'}
 
 
 
