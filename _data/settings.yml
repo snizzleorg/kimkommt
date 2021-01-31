@@ -11,27 +11,13 @@ address: 125/A, CA Commercial Area, California, USA
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
-- {name: About, link: '/kimkommt/about'}
-- {name: Blog, link: '/blog'}
-- {name: Portfolio, link: '/portfolio'}
-- {name: Contact, link: '/contact'}
+- {name: über Kim, link: '/about'}
+- {name: Projekte, link: '/projekte'}
+- {name: Termine, link: '/termine'}
+- {name: Team, link: '/team'}
+- {name: Kim Mieten, link: '/mieten'}
+- {name: Newsletter, link: '/contact'}
 
-
-#-------------------------------
-# Google Analytics Section
-
-# Analytics helps you understand who visits your website.
-# Learn more at: http://support.google.com/analytics/answer/1008065
-
-# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
-
-google-analytics: # UA-XXXXXX-X
-
-
-#-------------------------------
-# Comment Section (Disqus)
-
-disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
@@ -52,8 +38,7 @@ social:
 
 # About Section
 blurb:
-  KIM – das KulturInstitutMobil taucht an verschiedenen Plätzen im Stadtraum auf. Ursprünglich war KIM ein Lastenrad, das von der Ausbildungsinitiative ARRIVO BERLIN zum KulturInstitutMobil umgebaut wurde. Es bringt wetterfeste, multifunktionale Möbel mit (Sitzgelegenheiten, Stehtische, Flipcharts, einfache Designelemente, batteriebetriebenes Licht und Ton) und eignet sich für jegliche Art von kulturellen Veranstaltungen, die an bisher unerschlossenen Orten im Stadtraum stattfinden. KIM ist autark und improvisationsfähig, hinterlässt keine Spuren und kann sich allen Umständen der Unplanbarkeit bestens anpassen.
-
+  KIM – das KulturInstitutMobil taucht an verschiedenen Plätzen im Stadtraum auf. Ursprünglich war KIM ein Lastenrad, das von der Ausbildungsinitiative ARRIVO BERLIN zum KulturInstitutMobil umgebaut wurde. Es bringt wetterfeste, multifunktionale Möbel mit (Sitzgelegenheiten, Stehtische, Flipcharts, einfache Designelemente, batteriebetriebenes Licht und Ton) und eignet sich für jegliche Art von kulturellen Veranstaltungen, die an bisher unerschlossenen Orten im Stadtraum stattfinden. KIM ist autark und improvisationsfähig und kann sich allen Umständen der Unplanbarkeit bestens anpassen. 
 blurb-btn-link: '/kimkommt/about'
 blurb-btn-name: über uns
 
@@ -156,11 +141,11 @@ team:
 
 
 #-------------------------------
-# Portfolio (Section and Page)
+# Projekte (Section and Page)
 
-# Portfolio Home Section
-portfolio-home-items:
-  - image : "assets/images/portfolio/item-1.png"
+# Projekte Home Section
+projekte-home-items:
+  - image : "assets/images/salon/210129_KIM_Salon.png"
     url: "salon"
     
 #  - image : "assets/images/portfolio/item-2.png"
@@ -176,8 +161,8 @@ portfolio-home-items:
 #    url: "#"
 
 
-# Portfolio Page
-portfolio-label:
+# Projekte Page
+projekte-label:
 - {
     title : "Salon Raumverstehen",
     type : "Salon"
@@ -191,10 +176,10 @@ portfolio-label:
 #    type : "illustration"
 #  }
 
-portfolio-items:
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
+projekte-items:
+  - image : "assets/images/salon/210129_KIM_Salon.png"
+    url: "salon"
+    projekte-type:
      - type: "Salon"
       
 # - image : "assets/images/portfolio/item-2.png"
@@ -262,9 +247,9 @@ portfolio-items:
 
 
 #-------------------------------
-# Client Slider Section
+# Sponsor Slider Section
 
-client-slider-items:
+sponsor-slider-items:
   - logo: "assets/images/clients-logo/client-logo-1.png"
     url: "#"
     
