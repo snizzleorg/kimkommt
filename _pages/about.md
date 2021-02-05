@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 title: über kim
 author: Johnathan Smith
 image: assets/images/about/author.jpg
