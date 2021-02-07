@@ -15,10 +15,4 @@ Die beiden Gastgeberinnen werden die wissenschaftlichen, planungstechnischen und
 
 Die Salons werden an für kulturelle Veranstaltungen bislang unerschlossenen Orten stattfinden, die sich in stadtplanerisch relevanten Planungs- oder Umstrukturierungsprozessen befinden.
 
-Raumverstehen #1 Mai 2021 mit Stadtforscher und Humangeografen  Philip Boos 
-
-Raumverstehen #2 Juni 2021 mit dem Runden Tisch für Liegenschaftspolitik 
-
-Raumverstehen #3 Juli 2021 mit der Mondiale
-
-Raumverstehen #4 August 2021 mit Choreografin Sabine Zahn
+### [Termine]({{ site.baseurl }}{% link _pages/termine.md %})

@@ -2,10 +2,10 @@
 layout: team
 title: Team
 author: Gabriele Reuter
-image: assets/images/about/author.jpg
+#image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 ---
-## Team
+
 ### Gabriele Reuter
 Gabriele Reuter ist Choreografin / Performerin und Urbanistin. Im Zentrum ihrer künstlerischen Praxis und Lehre steht die Liebe zur Improvisation als Bühnenkunst und Lebenseinstellung. In diesem Zusammenhang hat sie mit vielen namhaften Künstler*innen zusammengearbeitet und performt und eine Reihe von Performance-Events initiiert. Ihre künstlerische Praxis versteht sie als Vermittlungsarbeit, die an der Schnittstelle von Choreografie, Stadtplanung und partizipativen Gruppenprozessen stattfindet.
 Als Faciliatorin und Moderatorin unterstützt sie Transformationsprozesse von Teams und Organisationen durch angewandte Improvisation mit Ansätzen aus Design Thinking, Agile/Scrum. Gabriele unterrichtete seit 2003 international Kontaktimprovisation, Zeitgenössischen Tanz und Komposition an Tanzinstitutionen und Universitäten. Ihre choreografischen Arbeiten und interdisziplinären Projekte wurden international auf Festivals wie nottdance Nottingham, dem Springdance Festival Utrecht, SpringLoaded at The Place London und idans Istanbul gezeigt. www.gabrielereuter.de

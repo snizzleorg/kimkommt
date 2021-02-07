@@ -1,18 +1,7 @@
 ---
-layout: page
+layout: about
 title: über kim
-author: Johnathan Smith
-image: assets/images/about/author.jpg
-signature: assets/images/about/signature.png
+author: Veronika Wagner
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
-
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+  KIM – das KulturInstitutMobil taucht an verschiedenen Plätzen im Stadtraum auf. Ursprünglich war KIM ein Lastenrad, das von der Ausbildungsinitiative ARRIVO BERLIN zum KulturInstitutMobil umgebaut wurde. Es bringt wetterfeste, multifunktionale Möbel mit (Sitzgelegenheiten, Stehtische, Flipcharts, einfache Designelemente, batteriebetriebenes Licht und Ton) und eignet sich für jegliche Art von kulturellen Veranstaltungen, die an bisher unerschlossenen Orten im Stadtraum stattfinden. KIM ist autark und improvisationsfähig und kann sich allen Umständen der Unplanbarkeit bestens anpassen. 
