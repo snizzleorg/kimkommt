@@ -11,12 +11,11 @@ address: 125/A, CA Commercial Area, California, USA
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
-- {name: über Kim, link: 'about'}
-- {name: Projekte, link: 'salon'}
-- {name: Termine, link: 'termine'}
-- {name: Team, link: 'team'}
-- {name: Kim Mieten, link: 'mieten'}
-- {name: Newsletter, link: 'contact'}
+- {name: über Kim, link: '/kimkommt/about'}
+- {name: Salon Raumverstehen, link: '/kimkommt/2021/02/07/Salon-Raumverstehen/'}
+- {name: Team, link: '/kimkommt/team'}
+- {name: Kim Mieten, link: '/kimkommt/mieten'}
+- {name: Newsletter, link: '/kimkommt/contact'}
 
 
 
@@ -262,7 +261,7 @@ sponsor-slider-items:
   - logo: "assets/images/clients-logo/client-logo-4.png"
     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-5.png"
+  - logo: "assets/images/clients-logo/client-logo-5.svg"
     url: "#"
     
   - logo: "assets/images/clients-logo/client-logo-1.png"
@@ -277,7 +276,7 @@ sponsor-slider-items:
   - logo: "assets/images/clients-logo/client-logo-4.png"
     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-5.png"
+  - logo: "assets/images/clients-logo/client-logo-5.svg"
     url: "#"
 
 #-------------------------------

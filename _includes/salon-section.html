@@ -1,0 +1,14 @@
+<!-- Salon -->
+<section class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h2 class="section-title">Salon Raumverstehen</h2>
+        </div>
+        {% for post in site.posts offset:0 limit:1 %}
+        {% include post.html %}
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+  <!-- /Salon -->
