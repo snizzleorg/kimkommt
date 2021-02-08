@@ -7,8 +7,19 @@ signature: assets/images/about/signature.png
 ---
 
 ### Gabriele Reuter
-Gabriele Reuter ist Choreografin / Performerin und Urbanistin. Ihre Choreografien mit den Schwerpunktthemen Raum und Akustik/Sound wurden auf verschiedenen internationalen Festivals gezeigt, u.a. Nottdance (GB), Springdance (NL), idans (TU). Ihre künstlerische Praxis versteht sie als Vermittlungsarbeit, die an der Schnittstelle von Choreografie, Stadtplanung und partizipativen Gruppenprozessen stattfindet. Als Moderatorin und Prozessbegleiterin im Bereich Agile und Design Thinking fokussiert sie sich auf  Wissenstransfer und Teamarbeit. 
-Gabriele unterrichtete seit 2003 international Kontaktimprovisation, Zeitgenössischen Tanz und Komposition an Tanzinstitutionen und Universitäten. Ihre choreografischen Arbeiten und interdisziplinären Projekte wurden international auf Festivals wie nottdance Nottingham, dem Springdance Festival Utrecht, SpringLoaded at The Place London und idans Istanbul gezeigt. www.gabrielereuter.de
+{% 
+include module.html 
+image_path="/assets/images/team/gabriele.jpeg" 
+image_credit="Katja Strempel" 
+description="Gabriele Reuter ist Choreografin / Performerin und Urbanistin. Ihre Choreografien mit den Schwerpunktthemen Raum und Akustik/Sound wurden auf verschiedenen internationalen Festivals gezeigt, u.a. Nottdance (GB), Springdance (NL), idans (TU). 
+
+Ihre künstlerische Praxis versteht sie als Vermittlungsarbeit, die an der Schnittstelle von Choreografie, Stadtplanung und partizipativen Gruppenprozessen stattfindet. Als Moderatorin und Prozessbegleiterin im Bereich Agile und Design Thinking fokussiert sie sich auf  Wissenstransfer und Teamarbeit. 
+
+Gabriele unterrichtete seit 2003 international Kontaktimprovisation, Zeitgenössischen Tanz und Komposition an Tanzinstitutionen und Universitäten. Ihre choreografischen Arbeiten und interdisziplinären Projekte wurden international auf Festivals wie nottdance Nottingham, dem Springdance Festival Utrecht, SpringLoaded at The Place London und idans Istanbul gezeigt."
+
+link="http://www.gabrielereuter.de" 
+
+%}
 
 
 ### Zoé Duflot (Produktion/Kommunikation)
@@ -16,15 +27,21 @@ Zoé Duflot studierte Marketing und Kulturmanagement an der ESCEM Business Schoo
 
 ### Veronika Wagner (Produktion/Dramaturgie)
 
-{% include module.html image_path="/assets/images/team/veronika.jpeg" description="Veronika Wagner studierte Theaterwissenschaft und Iranistik an der Ludwig-Maximilians-Universität in München. Sie schreibt für die Neue Deutsche Biografie und gibt am Institut für Theaterwissenschaft der Ludwig-Maximilians-Universität Seminare zum Thema Kulturvermittlung, Tanz- und Theaterhistoriografie. 
+{% 
+include module.html 
+image_path="/assets/images/team/veronika.jpeg" 
+description="Veronika Wagner studierte Theaterwissenschaft und Iranistik an der Ludwig-Maximilians-Universität in München. Sie schreibt für die Neue Deutsche Biografie und gibt am Institut für Theaterwissenschaft der Ludwig-Maximilians-Universität Seminare zum Thema Kulturvermittlung, Tanz- und Theaterhistoriografie. 
 
 Darüber hinaus arbeitet sie als Dramaturgin und Produktionsleiterin in der freien Szene. Für den fachbetrieb rita grechen, das SPIELART Theater Festival, die Choreografinnen Sandra Chatterjee und Lena Grossmann und die Regisseurinnen Verena Regensburger und Anina Jendreyko war und ist sie als Dramaturgin und Produktionsleiterin tätig. 
 
-2020 war sie für Joint Adventures im Organisationsteam der Tanzplattform Deutschland 2020 und als Dramaturgin bei der Tanzwerkstatt Europa. 
+2020 war sie für Joint Adventures im Organisationsteam der Tanzplattform Deutschland 2020 und als Dramaturgin bei der Tanzwerkstatt Europa." 
 
-www.veronikawagner.de" %}
+link="http://www.veronikawagner.de"
+
+%}
 
 
+<br>
 
 ### Salon Raumverstehen 
 #### Susanne Martin (Ko-Moderation/Performance)
