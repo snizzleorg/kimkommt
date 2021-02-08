@@ -22,10 +22,12 @@ link="http://www.gabrielereuter.de"
 %}
 
 
-### Zoé Duflot (Produktion/Kommunikation)
+### Zoé Duflot
+#### (Produktion/Kommunikation)
 Zoé Duflot studierte Marketing und Kulturmanagement an der ESCEM Business School in Tours, Paris, Belfast und München. Geboren in Frankreich, lebt sie seit 2013 in Berlin. Sie ist seit 2015 bei der Tanzfabrik Berlin für die Kommunikation und Koordination der Workshops zuständig. 2016 bis 2020 hat Zoé Duflot für Gästebetreuung und andere organisatorische Aufgaben bei der Berlinale übernommen. Bei der Documenta 14 Kassel war sie im Team des Presse- und Informationszentrums. Darüber hinaus hat sie 2019 beim Steirisches Herbst 2019 als Kommunikationsassistenz gearbeitet. Daneben ist sie für verschiedene kleinere internationale Film- und Kunstfestivals im Bereich Organisation tätig.  
 
-### Veronika Wagner (Produktion/Dramaturgie)
+### Veronika Wagner
+#### (Produktion/Dramaturgie)
 
 {% 
 include module.html 
