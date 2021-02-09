@@ -263,7 +263,10 @@ sponsor-slider-items:
     
   - logo: "assets/images/clients-logo/client-logo-5.svg"
     url: "#"
-    
+
+  - logo: "assets/images/clients-logo/tf-logo-schule-2020-web.jpg"
+    url: "#"
+
   - logo: "assets/images/clients-logo/client-logo-1.png"
     url: "#"
     
@@ -277,6 +280,9 @@ sponsor-slider-items:
     url: "#"
     
   - logo: "assets/images/clients-logo/client-logo-5.svg"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/tf-logo-schule-2020-web.jpg"
     url: "#"
 
 #-------------------------------
