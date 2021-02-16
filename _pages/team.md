@@ -29,6 +29,12 @@ include module.html
 image_path="/assets/images/team/zoe.jpg" 
 image_credit="..." 
 description="Zoé Duflot studierte Marketing und Kulturmanagement an der ESCEM Business School in Tours, sowie in Paris, Belfast und München. Geboren in Frankreich, lebt sie seit 2013 in Berlin. Sie ist seit 2015 bei der Tanzfabrik Berlin für die Kommunikation und Koordination der Workshops zuständig. Für die Berlinale war sie von 2016 bis 2020 für die Gästebetreuung und andere organisatorische Aufgaben zuständig. Bei der Documenta 14 in Kassel war sie im Team des Presse- und Informationszentrums. Darüber hinaus hat sie 2019 beim Steirischen Herbst in Graz als Kommunikationsassistenz gearbeitet. Daneben ist sie für verschiedene kleinere internationale Film- und Kunstfestivals im Bereich Organisation tätig.
+
+
+
+
+
+
 "
 
 link="#" 
