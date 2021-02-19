@@ -2,7 +2,7 @@
 layout: projekte
 title:  Salon Raumverstehen
 date:   2021-02-07 
-image:  assets/images/salon/210129_KIM_Salon.png
+image:  assets/images/salon/210219_KIM-Salon_Illu-WebHeader.png
 author: Gabriele Reuter
 tags:   Salon
 ---
