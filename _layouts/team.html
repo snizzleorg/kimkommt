@@ -1,41 +1,52 @@
 ---
 layout: short
+title: Team
 ---
 <!-- page title -->
 <section class="page-title bg-primary position-relative">
-
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">        
+      </div>
+    </div>
+  </div>
   <!-- background shapes -->
-  <img src="{{ site.baseurl }}/assets/images/illustrations/210205_KIM_IlluText_web2.png" alt="illustrations" class="bg-shape-1 w-100">
-  
+  <img src="{{ site.data.settings.headerimage }}" alt="illustrations" class="bg-shape-1 w-100">
 </section>
-<!-- /page title -->
 
-<!-- about -->
-<section class="section pt-5">
+
+{% if site.data.settings.team %}
+<!-- team -->
+<section>
   <div class="container">
     <div class="row">
-      <div class="col-12 text-left">
-        <h1>{{ page.title }}</h1>
-      </div>      
-      <div class="col-md-8">
-        {{ content }}
-      </div>
-      <div class="col-md-4 text-center drag-lg-top">
-        
-      </div>
+      <div class="col-lg-12">
+        <h1>{{ page.title | escape }}</h1>
+
+      {% for team-member in site.data.settings.team %}
+        <div >
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="card text-center">
+                        <img src="{{ team-member.image | relative_url }}" class="card-img-top">
+                        <div class="card-body">
+                            <h4 class="card-title">{{ team-member.title }}</h4>                           
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <h3 class="card-title">{{ team-member.designation }}</h3>
+                    <p>
+                        {{ team-member.description }}
+                    </p>
+                    <p class="text-light font-secondary"><a haref ="{{ team-member.link }}">{{ team-member.link }}</a></p>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+      </div>  
     </div>
   </div>
 </section>
-<!-- /about -->
-
-  
-<section class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 text-center">
-        <h3 class="section-title">unterstützt von</h3>
-      </div>
-    </div>
-    {% include sponsor-slider.html %}
-  </div>
-</section>
+<!-- /team -->
+{% endif %}

@@ -5,8 +5,7 @@ layout: short
 <section class="page-title bg-primary position-relative">
   <div class="container">
     <div class="row">
-      <div class="col-12 text-center">
-        
+      <div class="col-12 text-center">  
       </div>
     </div>
   </div>
@@ -30,5 +29,38 @@ layout: short
   </div>
 </section>
 
-{% if site.data.settings.disqus-identifier %} {% include disqus-comments.html %} {% endif %}
-
+{% if page.team %}
+<!-- team -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+    <div class="col-lg-12">
+      <h2>Team</h2>
+      {% for team-member in page.team %}
+        <div >
+            <div class="row">
+              <div class="col-md-3">
+                    <div class="card text-center">
+                        <img src="{{ team-member.image | relative_url }}" class="card-img-top">
+                        <div class="card-body">
+                            <h4 class="card-title">{{ team-member.title }}</h4>                           
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <h3 class="card-title">{{ team-member.designation }}</h3>
+                    <p>
+                        {{ team-member.description }}
+                    </p>
+                    <p class="text-light font-secondary"><a haref ="{{ team-member.link }}">{{ team-member.link }}</a></p>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    
+    </div>
+    </div>
+  </div>
+</section>
+<!-- /team -->
+{% endif %}

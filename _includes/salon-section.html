@@ -1,14 +1,34 @@
-<!-- Salon -->
+
+{% if site.data.settings.projekte-home-items %}
+<!-- projekte -->
 <section class="section">
-    <div class="container">
-      <div class="row">
-        <div class="col-12 text-center">
-          <h2 class="text-red">Salon Raumverstehen</h2>
-        </div>
-        {% for post in site.posts offset:0 limit:1 %}
-        {% include post.html %}
-        {% endfor %}
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 cclass="section-title">Projekte</h2>
       </div>
     </div>
-  </section>
-  <!-- /Salon -->
+    <div class="row shuffle-wrapper">
+      {% for item in site.data.settings.projekte-home-items %}
+      <div class="col-12 shuffle-item text-center">
+        <div class="position-relative rounded hover-wrapper">
+          <img src="{{ site.baseurl }}/{{ item.image }}" alt="projekt-image" class="img-fluid rounded w-100 d-block">
+          <div class="hover-overlay">
+            <div class="hover-content">
+              <a class="btn btn-light btn-sm" href="{{ item.url }}">mehr...</a>
+            </div>
+          </div>
+          
+        </div>
+        
+        <div class="col-lg-10 mx-auto text-left">
+          <p></p><p></p>
+          <p class="paragraph-lg text-dark">{{ item.excerpt }}</p>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<!-- /projekte -->
+{% endif %}

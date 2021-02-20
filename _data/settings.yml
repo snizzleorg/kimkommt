@@ -9,10 +9,11 @@ email: post@gabrielereuter.de
 phone: +49 176 10021740
 address: 125/A, CA Commercial Area, California, USA
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+headerimage: assets/images/illustrations/210205_KIM_IlluText_web2.png
 
 menu:
 - {name: über Kim, link: '/about'}
-- {name: Salon Raumverstehen, link: '/2021/02/07/Salon-Raumverstehen/'}
+- {name: Salon Raumverstehen, link: '/salon'}
 - {name: Team, link: '/team'}
 - {name: Kim Mieten, link: '/mieten'}
 - {name: Newsletter, link: '/contact'}
@@ -62,24 +63,42 @@ work-process:
 # My Team Section
 team:
   - title : "Gabriele Reuter"
-    image : "assets/images/team/member-1.png"
+    image : "assets/images/team/gabriele.jpeg"
     designation : "Konzept"
+    link: "http://gabrielereuter.de"
+    description : "
+    Gabriele Reuter ist Choreografin / Performerin und Urbanistin. Ihre Choreografien mit den Schwerpunktthemen Raum und Akustik/Sound wurden auf verschiedenen internationalen Festivals gezeigt, u.a. Nottdance (GB), Springdance (NL), idans (TU). 
+    
+    Ihre künstlerische Praxis versteht sie als Vermittlungsarbeit, die an der Schnittstelle von Choreografie, Stadtplanung und partizipativen Gruppenprozessen stattfindet. Als Moderatorin und Prozessbegleiterin im Bereich Agile und Design Thinking fokussiert sie sich auf  Wissenstransfer und Teamarbeit. 
+    
+    Gabriele unterrichtete seit 2003 international Kontaktimprovisation, Zeitgenössischen Tanz und Komposition an Tanzinstitutionen und Universitäten. Ihre choreografischen Arbeiten und interdisziplinären Projekte wurden international auf Festivals wie nottdance Nottingham, dem Springdance Festival Utrecht, SpringLoaded at The Place London und idans Istanbul gezeigt.
+    " 
     
   - title : "Zoé Duflot"
-    image : "assets/images/team/member-2.png"
+    image : "assets/images/team/zoe.jpeg"
     designation : "Kommunikation"
+    description : "Zoé Duflot studierte Marketing und Kulturmanagement an der ESCEM Business School in Tours, sowie in Paris, Belfast und München. Geboren in Frankreich, lebt sie seit 2013 in Berlin. Sie ist seit 2015 bei der Tanzfabrik Berlin für die Kommunikation und Koordination der Workshops zuständig. Für die Berlinale war sie von 2016 bis 2020 für die Gästebetreuung und andere organisatorische Aufgaben zuständig. Bei der Documenta 14 in Kassel war sie im Team des Presse- und Informationszentrums. Darüber hinaus hat sie 2019 beim Steirischen Herbst in Graz als Kommunikationsassistenz gearbeitet. Daneben ist sie für verschiedene kleinere internationale Film- und Kunstfestivals im Bereich Organisation tätig."
     
   - title : "Veronika Wagner"
-    image : "assets/images/team/member-3.png"
+    image : "assets/images/team/veronika.jpeg"
     designation : "Produktion"
+    link : "http://www.veronikawagner.de"
+    description : "Veronika Wagner studierte Theaterwissenschaft und Iranistik an der Ludwig-Maximilians-Universität in München. Sie schreibt für die Neue Deutsche Biografie und gibt am Institut für Theaterwissenschaft der Ludwig-Maximilians-Universität Seminare zum Thema Kulturvermittlung, Tanz- und Theaterhistoriografie. 
+
+    Darüber hinaus arbeitet sie als Dramaturgin und Produktionsleiterin in der freien Szene. Für den fachbetrieb rita grechen, das SPIELART Theater Festival, die Choreografinnen Sandra Chatterjee und Lena Grossmann und die Regisseurinnen Verena Regensburger und Anina Jendreyko war und ist sie als Dramaturgin und Produktionsleiterin tätig. 
+
+    2020 war sie für Joint Adventures im Organisationsteam der Tanzplattform Deutschland 2020 und als Dramaturgin bei der Tanzwerkstatt Europa.
+    " 
 
   - title : "Sophie Jahnke"
     image : "assets/images/team/member-3.png"
     designation : "Grafik"
 
-  - title : "Susanne Martin"
-    image : "assets/images/team/member-3.png"
-    designation : "Konzept"
+
+
+
+
+
 
 #-------------------------------
 # Skills Section
@@ -144,105 +163,11 @@ team:
 
 # Projekte Home Section
 projekte-home-items:
-  - image : "assets/images/salon/210129_KIM_Salon.png"
+  - image : "assets/images/salon/210219_KIM-Salon_Teaser.png"
     url: "salon"
-    
-#  - image : "assets/images/portfolio/item-2.png"
-#    url: "#"
-#    
-#  - image : "assets/images/portfolio/item-3.png"
-#    url: "#"
-#    
-#  - image : "assets/images/portfolio/item-4.png"
-#    url: "#"
-#    
-#  - image : "assets/images/portfolio/item-5.png"
-#    url: "#"
-
-
-# Projekte Page
-projekte-label:
-- {
-    title : "Salon Raumverstehen",
-    type : "Salon"
-  }
-#- {
-#    title : "BRANDING",
-#    type : "branding"
-#  }
-#- {
-#    title : "ILLUSTRATION",
-#    type : "illustration"
-#  }
-
-projekte-items:
-  - image : "assets/images/salon/210129_KIM_Salon.png"
-    url: "salon"
-    projekte-type:
-     - type: "Salon"
-      
-# - image : "assets/images/portfolio/item-2.png"
-#    url: "#"
-#    portfolio-type:
-#      - type: "branding"
-#      
-#  - image : "assets/images/portfolio/item-3.png"
-#    url: "#"
-#    portfolio-type:
-#      - type: "illustration"
-#      
-#  - image : "assets/images/portfolio/item-6.png"
-#    url: "#"
-#    portfolio-type:
-#      - type: "design"
-#      - type: "branding"
-      
-#  - image : "assets/images/portfolio/item-8.png"
-#    url: "#"
-#    portfolio-type:
-#      - type: "illustration"
-      
-#  - image : "assets/images/portfolio/item-5.png"
-#    url: "#"
-#    portfolio-type:
-#      - type: "design"
-      
-#  - image : "assets/images/portfolio/item-1.png"
-#    url: "#"
-#    portfolio-type:
-#      - type: "branding"
-      
-#  - image : "assets/images/portfolio/item-3.png"
-#    url: "#"
-#    portfolio-type:
-#      - type: "design"
-#      - type: "illustration"
-#      - type: "branding"
-      
-#  - image : "assets/images/portfolio/item-7.png"
-#    url: "#"
-#    portfolio-type:
-#      - type: "illustration"
-
-
-#-------------------------------
-# Testimonials Section
-
-# testimonial-items:
-#   - name: "Jesica Gomez"
-#     image: "assets/images/testimonial/client-1.png"
-#     designation : "CEO, Funder"
-#     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-    
-#   - name: "Jesica Gomez"
-#     image: "assets/images/testimonial/client-1.png"
-#     designation: "CEO, Funder"
-#     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-    
-#   - name: "Jesica Gomez"
-#     image: "assets/images/testimonial/client-1.png"
-#     designation: "CEO, Funder"
-#     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    excerpt: "
+    Der Salon Raumverstehen sieht den Stadtraum als beweglichen Organismus. Durch Tanz werden Körper und Ort in eine unmittelbare sinnliche Beziehung zueinander gesetzt. So werden die sichtbaren und unsichtbaren Machtgefüge städtischer Räume, der alltägliche Kampf um Lebensraum  und Lebensqualität und die empfindlichen Dynamiken zwischen unterschiedlichsten Nutzergruppen des  Ortes neu verhandelt. Kurzvorträge von Expert*innen, praktische Übungen mit dem Publikum, kurze Performances und gemeinsam Nachdenken und Diskutieren. Es geht darum, gemeinsam Raum zu verstehen.
+    "
 
 
 #-------------------------------

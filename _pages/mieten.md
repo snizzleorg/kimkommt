@@ -1,5 +1,5 @@
 ---
-layout: team
+layout: about
 title: kim mieten
 author: Gabriele Reuter
 
