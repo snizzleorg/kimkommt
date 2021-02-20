@@ -11,6 +11,7 @@
     <div class="row shuffle-wrapper">
       {% for item in site.data.settings.projekte-home-items %}
       <div class="col-12 shuffle-item text-center">
+     
         <div class="position-relative rounded hover-wrapper">
           <img src="{{ site.baseurl }}/{{ item.image }}" alt="projekt-image" class="img-fluid rounded w-100 d-block">
           <div class="hover-overlay">
@@ -21,9 +22,8 @@
           
         </div>
         
-        <div class="col-lg-10 mx-auto text-left">
-          <p></p><p></p>
-          <p class="paragraph-lg text-dark">{{ item.excerpt }}</p>
+        <div class="card-body col-lg-10 mx-auto text-left">
+          <p class="paragraph-lg text-dark">{{ item.excerpt }} <a href="{{ item.url }}"> (mehr ...)</a></p>
         </div>
       </div>
       {% endfor %}
@@ -32,3 +32,4 @@
 </section>
 <!-- /projekte -->
 {% endif %}
+
