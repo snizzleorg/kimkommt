@@ -1,6 +1,6 @@
 version: '3.3'
 services:
-  jekyll:
+  kimkommt:
     volumes:
       - '.:/srv/jekyll'
       - './vendor/bundle:/usr/local/bundle'
@@ -8,5 +8,5 @@ services:
       - JEKYLL_ENV=development
     ports:
       - '4000:4000'
-    image: jekyll/jekyll:3.8
+    image: jekyll/jekyll
     command: jekyll serve
