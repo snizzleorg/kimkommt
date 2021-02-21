@@ -45,7 +45,7 @@ Die beiden Gastgeberinnen werden die wissenschaftlichen, planungstechnischen und
 
 Die Salons werden an für kulturelle Veranstaltungen bislang unerschlossenen Orten stattfinden, die sich aktuell in Planungs- oder Umstrukturierungsprozessen befinden.
 
-### Termine
+## Termine
 Raumverstehen #1 Mai 2021 mit Stadtforscher und Humangeografen  Philip Boos 
 
 Raumverstehen #2 Juni 2021 mit dem Runden Tisch für Liegenschaftspolitik
