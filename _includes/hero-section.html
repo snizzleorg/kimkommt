@@ -10,7 +10,7 @@
     <img class="img-fluid w-100" src="{{ site.data.settings.headerimage }}" alt="bg-shape">
   </div>
   <div class="layer" id="l2">
-    <img src="{{ site.baseurl }}/assets/images/illustrations/dots-cyan.png" alt="bg-shape">
+    <!-- <img src="{{ site.baseurl }}/assets/images/illustrations/dots-cyan.png" alt="bg-shape"> -->
   </div>
   <div class="layer" id="l3">
   
@@ -33,7 +33,7 @@
   <!-- social icon -->
   <ul class="list-unstyled ml-5 mt-3 position-relative zindex-1">
     {% for social in site.data.settings.social %}
-    <li class="mb-3"><a class="text-white" href="{{ social.link }}"><i class="{{ social.icon }}"></i></a></li>
+    <li class="mb-3"><h2><a class="text-red" href="{{ social.link }}"><i class="{{ social.icon }}"></i></a></h2></li>
     {% endfor %}
   </ul>
   <!-- /social icon -->

@@ -27,10 +27,10 @@ hero:
   hero-title: <i>K</i>ultur<i>I</i>nstitut<i>M</i>obil
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
+##- {icon: "ti-facebook", link: "#"}
+- {icon: "ti-instagram", link: "https://instagram.com/kulturinstitutmobil"}
 ##- {icon: "ti-dribbble", link: "#"}
-- {icon: "ti-twitter", link: "#"}
+## - {icon: "ti-twitter", link: "#"}
 
 
 #-------------------------------
