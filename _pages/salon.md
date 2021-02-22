@@ -1,7 +1,7 @@
 ---
 layout: projekte
 title:  Salon Raumverstehen
-image:  assets/images/salon/Salon_WebHeader_transp.png
+image:  assets/images/salon/Salon_WebHeader_blue.png
 excerpt: "
 Der Salon Raumverstehen sieht den Stadtraum als beweglichen Organismus. Durch Tanz werden Körper und Ort in eine unmittelbare sinnliche Beziehung zueinander gesetzt. So werden die sichtbaren und unsichtbaren Machtgefüge städtischer Räume, der alltägliche Kampf um Lebensraum  und Lebensqualität und die empfindlichen Dynamiken zwischen unterschiedlichsten Nutzergruppen des  Ortes neu verhandelt. Kurzvorträge von Expert*innen, praktische Übungen mit dem Publikum, kurze Performances und gemeinsam Nachdenken und Diskutieren. Es geht darum, gemeinsam Raum zu verstehen.
 "
