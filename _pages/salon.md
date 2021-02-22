@@ -46,14 +46,20 @@ Die beiden Gastgeberinnen werden die wissenschaftlichen, planungstechnischen und
 Die Salons werden an für kulturelle Veranstaltungen bislang unerschlossenen Orten stattfinden, die sich aktuell in Planungs- oder Umstrukturierungsprozessen befinden.
 
 ## Termine
-Raumverstehen #1 Mai 2021 mit Stadtforscher und Humangeografen  Philip Boos 
+#### Raumverstehen #1
+Juni 2021 in Ko-operation mit Uferstudios/Ausufern
 
-Raumverstehen #2 Juni 2021 mit dem Runden Tisch für Liegenschaftspolitik
+#### Raumverstehen #2 
+Juni 2021 mit dem Runden Tisch für Liegenschaftspolitik
 
-Raumverstehen #3 Juli 2021 in Ko-operation mit Berlin Mondiale
+#### Raumverstehen #3
+Juli 2021 in Ko-operation mit Berlin Mondiale
 
-Raumverstehen #4 August 2021 mit Choreografin Sabine Zahn
+#### Raumverstehen #4
+August 2021 mit Choreografin Sabine Zahn
 
-Raumverstehen #5 September 2021 in Ko-operation mit Uferstudios/Ausufern
+#### Raumverstehen #5
+September 2021 mit Stadtforscher und Humangeografen  Philip Boos 
 
-Die genauen Daten und Spielorte werden bis Ende März/April hier bekanntgegeben. 
+
+*Die genauen Daten und Spielorte werden bis Ende März/April hier bekanntgegeben.*
