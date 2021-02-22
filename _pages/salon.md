@@ -18,7 +18,7 @@ team:
   - title : "Philip Boos"
     image : "assets/images/team/philip.jpeg"
     designation : "Ko-Kurator"
-    description : "ZPhilip Boos ist Humangeograph. Studium Geographische Wissenschaften an der Freien Universität Berlin sowie Stadtgeographie an der Humboldt-Universität zu Berlin. Seit 2016 Wissenschaftlicher Mitarbeiter am Institut für Sozialinnovation, Berlin. Expertise in qualitativer und quantitativer Datenanalyse sowie zu sozialen Innovationen und nachhaltigem Konsum. Forschungsinteressen sind Raum- und Umweltwahrnehmung, Fahrradmobilität, sowie Lebensqualität in Städten."
+    description : "Philip Boos ist Humangeograph. Studium Geographische Wissenschaften an der Freien Universität Berlin sowie Stadtgeographie an der Humboldt-Universität zu Berlin. Seit 2016 Wissenschaftlicher Mitarbeiter am Institut für Sozialinnovation, Berlin. Expertise in qualitativer und quantitativer Datenanalyse sowie zu sozialen Innovationen und nachhaltigem Konsum. Forschungsinteressen sind Raum- und Umweltwahrnehmung, Fahrradmobilität, sowie Lebensqualität in Städten."
     
   - title : "Sabine Zahn"
     image : "assets/images/team/sabine.jpeg"
