@@ -47,13 +47,13 @@ Die Salons werden an für kulturelle Veranstaltungen bislang unerschlossenen Ort
 
 ## Termine
 #### Raumverstehen #1
-Juni 2021 in Ko-operation mit Uferstudios/Ausufern
+Juni 2021 in Kooperation mit Uferstudios/Ausufern
 
 #### Raumverstehen #2 
 Juni 2021 mit dem Runden Tisch für Liegenschaftspolitik
 
 #### Raumverstehen #3
-Juli 2021 in Ko-operation mit Berlin Mondiale
+Juli 2021 in Kooperation mit Berlin Mondiale
 
 #### Raumverstehen #4
 August 2021 mit Choreografin Sabine Zahn
