@@ -9,7 +9,6 @@ Uferstudios - Juli 2021
 
 
 ---
-# Salon Raumverstehen #2
 ## Uferstudios - Juli 2021
 
 Raumverstehen #2 findet in Kooperation mit der Programmreihe “Ausufern” der [Uferstudios](https://www.uferstudios.com/projekte/ausufern/) im Wedding statt.
