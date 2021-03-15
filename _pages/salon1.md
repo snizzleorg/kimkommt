@@ -17,7 +17,6 @@ team:
 
 
 ---
-## Runder Tisch für Liegenschaftspolitik - Juni 2021 
 
 Raumverstehen #1 beschäftigt sich mit Spannungen in der Liegenschaftspolitik. Der Salon wird an einer strittigen Liegenschaft stattfinden und am konkreten Beispiel zusammen mit involvierten Akteur:innenen Interessenskonflikte aufzeigen, welche Reibungsfläche die Vergabe einer Liegenschaft mit sich bringt. [Der Runde Tisch für Liegenschaftspolitik](https://stadtneudenken.net/runder-tisch/) hat hierbei eine vermittelnde Funktion: involvierte Personen aus Politik, Verwaltung und Zivilgesellschaft werden in einem sorgfältig kuratierten Kontext auf Augenhöhe zusammengebracht. Durch den (moderierten) Dialog und die Interaktion werden die jeweiligen Perspektiven aufgezeigt, Interessen geklärt und die Bedeutung der sensiblen Ressource Raum verständlich gemacht. Durch den Austausch der Perspektiven und dem gemeinsamen Diskutieren kann auf lange Sicht das Stadtbild verbessert werden.
 

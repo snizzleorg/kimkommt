@@ -1,6 +1,6 @@
 ---
 layout: projekte
-title:  #3 Sabine Zahn - August 2021
+title:  "#3 Sabine Zahn - August 2021"
 image:  assets/images/salon/Salon_WebHeader_blue.png
 excerpt: "
 Sabine Zahn
@@ -17,7 +17,6 @@ etablieren. Sie studierte Theaterwissenschaft und Journalistik in Leipzig, Schau
     " 
 
 ---
-## Sabine Zahn - August 2021
 
 Raumverstehen #3 wird sich mit der Frage nach dem Bewohnen als körperlich-temporären Vorgang beschäftigen. [Sabine Zahn](http://www.lovelabours.net) erforscht in ihrer momentanen Arbeit „dwelling/falling“ das, was es braucht, die Stadt zu bewohnen; sich einzurichten, auszukennen, zu nachbarn, sich zu verorten. Dabei geht es weniger um die Wohnung, den Kiez oder andere Wohnorte, sondern um ein sich situierendes, temporäres und aktives Umgehen mit der eigenen Anwesenheit im Stadtraum. Die Frage, die Zahn dabei interessiert ist, wie Wohnen eine poetische und spekulative Praxis des Stadtmachens sein könnte und welche Stadt dabei entsteht. Damit verknüpft ist die Grundfrage nach der Relevanz künstlerisch-urbanistischem Handelns, einer urbanen Praxis. Der Salon Raumverstehen ist eine ausgezeichnete Möglichkeit, die künstlerische Forschung durch   den Dialog mit damit verwobenen Wissensfelder wie Anthropologie, urbaner Praxis, Philosophie, Urbanismus (…) zu erweitern.
 

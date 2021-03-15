@@ -1,6 +1,6 @@
 ---
 layout: projekte
-title:  #4 Berlin Mondiale - September 2021
+title:  "#4 Berlin Mondiale - September 2021"
 image:  assets/images/salon/Salon_WebHeader_blue.png
 excerpt: "
 Berlin Mondiale
@@ -15,7 +15,6 @@ team:
     " 
 
 ---
-## Berlin Mondiale - September 2021
 
 Raumverstehen #4 befasst sich mit dem Nachbarschaftscampus Dammweg in Ko-operation mit dem Netzwerk [Berlin Mondiale](https://berlin-mondiale.de/de/). 2021 soll die lange verschlossene und verwunschene Brachfläche von der Mondiale Berlin, Nachbar\*innen, lokalen Initiativen und Partner\*innen gemeinsam erforscht, langsam genutzt und geöffnet werden. Im Zentrum des Salons steht die Frage: Was kann der Nachbarschaftscampus leisten? Wer kann wie eingebunden und angesprochen werden? Wie verortet sich der Nachbarschaftscampus in der Nachbarschaft?
 
