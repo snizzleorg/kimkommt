@@ -8,7 +8,7 @@ Der Salon Raumverstehen sieht den Stadtraum als beweglichen Organismus. Durch Ta
 
 ---
 
-Im Frühling und Sommer 2021 werden an verschiedenen Orten in Berlin vier Salons stattfinden, die sich mit dem jeweils bespielten Raum beschäftigen. Jeder Salon wird von einem:r Ko-Kurator:in thematisch fokussiert und von den Salonniérs und Performerinnen Gabriele Reuter und Susanne Martin konzipiert und moderiert. 
+Im Frühling und Sommer 2021 werden an verschiedenen Orten in Berlin fünf Salons stattfinden, die sich mit dem jeweils bespielten Raum beschäftigen. Jeder Salon wird von einem:r Ko-Kurator:in thematisch fokussiert und von den Salonniérs und Performerinnen Gabriele Reuter und Susanne Martin konzipiert und moderiert. 
 
 Der Salon Raumverstehen sieht den Stadtraum als beweglichen Organismus. Durch Tanz werden Körper und Ort in eine unmittelbare sinnliche Beziehung zueinander gesetzt. So werden die sichtbaren und unsichtbaren Machtgefüge städtischer Räume, der alltägliche Kampf um Lebensraum  und Lebensqualität und die empfindlichen Dynamiken zwischen unterschiedlichsten Nutzergruppen des  Ortes neu verhandelt. Kurzvorträge von Expert:innen, praktische Übungen mit dem Publikum, kurze Performances und gemeinsam Nachdenken und Diskutieren. Es geht darum, gemeinsam Raum zu verstehen.
 
