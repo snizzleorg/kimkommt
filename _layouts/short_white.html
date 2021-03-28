@@ -1,0 +1,31 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="de">
+
+{% include head.html %}
+
+<body>
+
+  {% include header.html %}
+
+  {{ content }}
+
+  <section class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h3 class="section-title">unterstützt von</h3>
+        </div>
+      </div>
+      {% include sponsor-slider.html %}
+    </div>
+  </section>
+  
+
+  {% include footer.html %}
+
+</body>
+
+</html>
