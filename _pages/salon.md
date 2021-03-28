@@ -36,3 +36,16 @@ September 2021 - Maria Muñoz-Duyos / Berlin Mondiale
 
 
 *Die genauen Daten und Spielorte werden bis Ende März/April hier bekanntgegeben.*
+
+<br>
+<br>
+
+![Salon](/assets/images/salon/GabiSusanne.jpg){: width="50%" style="float:right; padding-right:0px; padding-left:24px; padding-top:12px; min-width:500px"}
+__Gabriele Reuter und Susanne Martin__ arbeiten und performen seit ca. 2010 in unterschiedlichen Kontexten und Performance Formaten mit Schwerpunkt Improvisation zusammen. Im Zeitraum 2011 - 2017 entwickelten und moderierten sie zwölf Salonformate. Unter dem Namen “Susi & Gabi’s Salon - 100 Fragen an die Improviation” trafen über 50 Gastkünstler*innen in Berlin, Nottingham, Leicester und Plymouth auf ein aktiviertes und interessiertes Publikum. Die Salon wurden u.a. als Festival-Specials für das Tanz Hoch Zwei Festival der Tanzfabrik und das nottdance Festival in Nottingham entwickelt.
+Eine Dokumentation zu den bisherigen Salons finden Sie [hier](http://www.susannemartin.de/category/salons/). 
+
+![Suanne Martin](/assets/images/salon/susanne.jpg){: width="50%" style="float:left; padding-right:24px; padding-left:0px; padding-top:12px; min-width:500px"}
+__Susanne Martin (PhD)__ performt, erforscht und unterrichtet zeitgenössischen Tanz. Sie arbeitet international, kreiert Stücke als Solistin und kollaborativ. In ihren Arbeiten beschäftigt sie sich mit Improvisation als choreographische Praxis, Narrationen des Alter(n)s, Contact Improvisation und Practice as Research / künstlerische Forschung. Ihre Stücke waren u.a. auf folgenden Festivals eingeladen: Aerowaves (London), International Dance and Theatre Festival (Göteborg), Nottdance (Nottingham), Opera Estate Veneto (Bassano del Grappa), Tanec Praha (Prag). 2017 ist ihre PhD Dissertation Dancing Age(ing) im transcript Verlag erschienen, indem sie das Potenzial improvisationsbasierten Tanzes untersucht, kritisch in unsere Alter(n)skultur zu intervenieren. In ihrem aktuellen künstlerischen Forschungsprojekt (EPFL, Schweiz) erkundet sie wie Tanzimprovisation in die Lehr-, Lern- und Forschungskultur an technischen Universitäten eingreifen kann. [www.susannemartin.de](http://www.susannemartin.de)
+
+![Gabi](/assets/images/salon/Gabi.jpeg){: width="50%" style="float:right; padding-right:0px; padding-left:24px; padding-top:12px; min-width:500px"}
+__Gabriele Reuter__ ist Choreografin / Performerin und Urbanistin. Sie arbeitet an der Schnittstelle von Choreografie und Stadtforschung. Als Urbanistin ist sie vor allem an Fragen der Teilhabe an Stadtentwicklungsprozessen und praktischer sozialgeschichtliche Feldforschung interessiert. Als Faciliatorin und Moderatorin unterstützt sie Transformationsprozesse von Teams und Organisationen durch angewandte Improvisation mit Ansätzen aus Design Thinking, Agile/Scrum. Gabriele unterrichtete seit fast 20 Jahren Tanz, Bewegung und Improvisation in unterschiedlichen Kontexten. Ihre choreografischen Arbeiten und interdisziplinären Projekte wurden international auf Festivals wie nottdance Nottingham, dem Springdance Festival Utrecht, SpringLoaded at The Place London und idans Istanbul gezeigt. [www.gabrielereuter.de](http://www.gabrielereuter.de)
