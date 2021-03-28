@@ -8,7 +8,7 @@ Berlin Mondiale
 
 ---
 
-Raumverstehen #5 befasst sich mit dem Nachbarschaftscampus Dammweg in Ko-operation mit dem Netzwerk [Berlin Mondiale](https://berlin-mondiale.de/de/). 2021 soll die lange verschlossene und verwunschene Brachfläche von der Mondiale Berlin, Nachbar\*innen, lokalen Initiativen und Partner\*innen gemeinsam erforscht, langsam genutzt und geöffnet werden. Im Zentrum des Salons steht die Frage: Was kann der Nachbarschaftscampus leisten? Wer kann wie eingebunden und angesprochen werden? Wie verortet sich der Nachbarschaftscampus in der Nachbarschaft?
+Raumverstehen #5 befasst sich mit dem Nachbarschaftscampus Dammweg, der seit dem Frühjahr 2021 einer von zahlreichen Knotenpunkten des Netzwerks [Berlin Mondiale](https://berlin-mondiale.de/de/) geworden ist. Die lange verschlossene und verwunschene alte Gartenschule der Carl-Legien Oberschule von der Mondiale Berlin, Nachbar\*innen, lokalen Initiativen und Partner*innen gemeinsam erforscht, aktiviert, erforscht und für unterschiedlichste Formen von urbaner Praxis geöffnet.
 
 ## <br> 
 ### Ko-Kuratorin: Maria Muñoz-Duyos
