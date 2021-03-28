@@ -180,40 +180,40 @@ projekte-home-items:
 # Sponsor Slider Section
 
 sponsor-slider-items:
-  - logo: "assets/images/sponsor-logo/client-logo-1.png"
+  - logo: "assets/images/sponsor-logo/arrivo.png"
     url: "#"
     
-  - logo: "assets/images/sponsor-logo/client-logo-2.png"
+  - logo: "assets/images/sponsor-logo/BKM.png"
     url: "#"
     
-  - logo: "assets/images/sponsor-logo/client-logo-3.png"
+  - logo: "assets/images/sponsor-logo/mondiale.png"
     url: "#"
     
-  - logo: "assets/images/sponsor-logo/client-logo-4.png"
+  - logo: "assets/images/sponsor-logo/Neustart.png"
     url: "#"
     
-  - logo: "assets/images/sponsor-logo/client-logo-5.svg"
+  - logo: "assets/images/sponsor-logo/NPN.png"
     url: "#"
 
-  - logo: "assets/images/sponsor-logo/tf-logo-schule-2020-web.jpg"
+  - logo: "assets/images/sponsor-logo/tf-logo-schule-2020-web.png"
     url: "#"
 
-  - logo: "assets/images/sponsor-logo/client-logo-1.png"
+  - logo: "assets/images/sponsor-logo/arrivo.png"
     url: "#"
     
-  - logo: "assets/images/sponsor-logo/client-logo-2.png"
+  - logo: "assets/images/sponsor-logo/BKM.png"
     url: "#"
     
-  - logo: "assets/images/sponsor-logo/client-logo-3.png"
+  - logo: "assets/images/sponsor-logo/mondiale.png"
     url: "#"
     
-  - logo: "assets/images/sponsor-logo/client-logo-4.png"
+  - logo: "assets/images/sponsor-logo/Neustart.png"
     url: "#"
     
-  - logo: "assets/images/sponsor-logo/client-logo-5.svg"
+  - logo: "assets/images/sponsor-logo/NPN.png"
     url: "#"
 
-  - logo: "assets/images/sponsor-logo/tf-logo-schule-2020-web.jpg"
+  - logo: "assets/images/sponsor-logo/tf-logo-schule-2020-web.png"
     url: "#"
 
 #-------------------------------
