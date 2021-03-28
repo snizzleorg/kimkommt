@@ -1,16 +1,15 @@
 ---
 layout: projekte
-title:  "#5 Philip Boos - Oktober 2021"
+title:  "September 2021 - Maria Muñoz-Duyos / Berlin Mondiale"
 image:  assets/images/salon/Salon_WebHeader_blue.png
 excerpt: "
-Deep Mapping
+Berlin Mondiale
 "
-
 
 ---
 
-Raumverstehen #5 fragt mit der Methode des Deep Mapping nach individuellen Situationen der Beteiligten mit einem Fokus auf Raum. Aus direkten (subjektiven) Wahrnehmungen, Erinnerungen und Assoziationen wird eine kartographische Produktion abgeleitet, die die Vielschichtigkeit eines Ortes und dessen Umgebung sowie persönliche Relevanzen abbildet. Durch eine Zusammenstellung dieser individuellen Perspektiven soll ein kollektives Bewusstsein für individuelle räumlich konnotierte Augenblicke geschaffen werden, und auf möglichst nicht-reduktive Weise kartographisch abgebildet werden. Gleichzeitig wird auf die unvermeidbare Reduktion in kartographischen Repräsentationen hingewiesen. Ziel ist es, mit geschärftem Bewusstsein und Achtsamkeit des Selbst einen Kontrast zum routinierten, beschleunigten Alltag zu setzen. Deep Mapping ermöglicht eine persönliche Erfahrung, in der gesellschaftliche Diskurse und persönliche Narrative einander nicht ausschließen, sondern nebeneinander koexistieren können, auch wenn sie einander widersprechen. Gerade diese Widersprüche aufzuzeigen stellt eine Stärke der Methode dar.
+Raumverstehen #5 befasst sich mit dem Nachbarschaftscampus Dammweg in Ko-operation mit dem Netzwerk [Berlin Mondiale](https://berlin-mondiale.de/de/). 2021 soll die lange verschlossene und verwunschene Brachfläche von der Mondiale Berlin, Nachbar\*innen, lokalen Initiativen und Partner\*innen gemeinsam erforscht, langsam genutzt und geöffnet werden. Im Zentrum des Salons steht die Frage: Was kann der Nachbarschaftscampus leisten? Wer kann wie eingebunden und angesprochen werden? Wie verortet sich der Nachbarschaftscampus in der Nachbarschaft?
 
 ## <br> 
-### Ko-Kurator: Philip Boos
-Philip Boos ist Humangeograph und Stadtforscher. Studium Geographische Wissenschaften an der Freien Universität sowie Stadtgeographie an der Humboldt-Universität zu Berlin. 2016-2021 Wissenschaftlicher Mitarbeiter am Institut für Sozialinnovation, Berlin. Forschungsinteressen sind Raum- und Umweltwahrnehmung, Fahrradmobilität, sowie Lebensqualität in Städten.
+### Ko-Kuratorin: Maria Muñoz-Duyos
+Maria Muñoz-Duyos, Jahrgang 1973, wurde in Madrid geboren und ist Mutter von zwei Kindern. Seit 2016 wohnt sie in Berlin. Nach ihrem Abschluss in Regie und Dramaturgie an der Universität von Barcelona, leitete Muñoz-Duyos das Büro „Urbanitas Berlin-Barcelona“, das Projekte an der Schnittstelle zwischen kulturellen, städtischen und sozialen Innovationspraktiken entwickelt. Seit 2018 verteidigt das Bürgerlabor Parkakademie die Notwendigkeit eines reflexiven, experimentellen und etwas utopischen (unveröffentlichten) Urbanismus. Sie liebt es zu tanzen – auch mit ihren Kindern Greta und Gabriel.

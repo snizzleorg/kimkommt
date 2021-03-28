@@ -1,6 +1,6 @@
 ---
 layout: projekte
-title:   "#1 Runder Tisch für Liegenschaftspolitik - Juni 2021"
+title:   "15. Juni 2021 - Runder Tisch für Liegenschaftspolitik"
 image:  assets/images/salon/Salon_WebHeader_blue.png
 excerpt: "
 Liegenschaftspolitik
