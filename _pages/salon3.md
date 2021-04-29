@@ -1,6 +1,6 @@
 ---
 layout: projekte
-title:  "Juli 2021 - Deep Mapping - Philip Boos mit Eva Nöthen & Lea Bauer"
+title:  "Juli 2021 - Deep Mapping - Philip Boos"
 image:  assets/images/salon/Salon_WebHeader_blue.png
 excerpt: "
 Deep Mapping
