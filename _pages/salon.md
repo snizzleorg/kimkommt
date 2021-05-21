@@ -17,6 +17,8 @@ Einige der Ko-Kurator:innen, wie die Choreographin Sabine Zahn und der Stadtfors
 Die beiden Gastgeberinnen werden die wissenschaftlichen, planungstechnischen und künstlerischen Beiträge der Gäste  intensiv aus dem Blickwinkel der Choreografie beobachten, kommentieren und vom Publikum immer wieder körperliche Resonanzen dazu einfordern. Kurze Performances und Improvisationen werden die Beträge der Gäste unterbrechen, reflektieren und hinterfragen; Erkundungsspaziergänge des Publikums verbinden Wahrnehmungsübungen mit ortsspezifischen Details und  Zeitzeugenberichten. Susanne Martin und Gabriele Reuter haben seit 2011 zwölf gemeinsame Salonabende zum Thema Improvisation, Choreografie und Tanz entwickelt. Sie sind Expertinnen dafür, komplizierte Themen mit Leichtigkeit zu vermitteln. 
 
 Die Salons werden an für kulturelle Veranstaltungen bislang unerschlossenen Orten stattfinden, die sich aktuell in Planungs- oder Umstrukturierungsprozessen befinden.
+<br>
+<br>
 
 ### Termine
 #### [Raumverstehen #1](salon1)
