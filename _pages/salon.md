@@ -22,17 +22,16 @@ Die Salons werden an für kulturelle Veranstaltungen bislang unerschlossenen Ort
 
 ### Termine
 #### [Raumverstehen #1](salon1)
-
-15\. Juni 2021 - Runder Tisch für Liegenschaftspolitik
+Juli 2021 - Ausufern Programm der Uferstudios Wedding
 
 #### [Raumverstehen #2](salon2)
-Juni 2021 - Ausufern Programm der Uferstudios Wedding
+31\. Juli 2021 - Deep Mapping - Philip Boos mit Eva Nöthen & Lea Bauer
 
 #### [Raumverstehen #3](salon3)
-Juli 2021 - Deep Mapping - Philip Boos mit Eva Nöthen & Lea Bauer
+August 2021 - Runder Tisch für Liegenschaftspolitik
 
 #### [Raumverstehen #4](salon4)
-21\. August 2021 - Sabine Zahn / lovelabours
+20\. August 2021 - Sabine Zahn / lovelabours
 
 #### [Raumverstehen #5](salon5)
 September 2021 - Maria Muñoz-Duyos / Berlin Mondiale
