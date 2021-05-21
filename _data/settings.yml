@@ -80,7 +80,7 @@ team:
   - title : "Zoé Duflot"
     image : "assets/images/team/zoe.jpeg"
     designation : "Kommunikation & Produktion"
-    description : "Zoé Duflot studierte Marketing und Kulturmanagement an der ESCEM Business School in Tours, sowie in Paris, Belfast und München. Geboren in Frankreich, lebt sie seit 2013 in Berlin. Sie ist seit 2015 bei der Tanzfabrik Berlin für die Kommunikation und Koordination der Workshops zuständig. Für die Berlinale war sie von 2016 bis 2020 für die Gästebetreuung und andere organisatorische Aufgaben zuständig. Bei der Documenta 14 in Kassel war sie im Team des Presse- und Informationszentrums. Darüber hinaus hat sie 2019 beim Steirischen Herbst in Graz als Kommunikationsassistenz gearbeitet. Daneben ist sie für verschiedene kleinere internationale Film- und Kunstfestivals im Bereich Organisation tätig.<br><br><br>"
+    description : "Zoé Duflot studierte Marketing und Kulturmanagement an der ESCEM Business School in Tours, sowie in Paris, Belfast und München. Geboren in Frankreich, lebt sie seit 2013 in Berlin. Sie ist seit 2015 bei der Tanzfabrik Berlin für die Kommunikation und Koordination der Workshops zuständig. Für die Berlinale war sie von 2016 bis 2020 für die Gästebetreuung und andere organisatorische Aufgaben zuständig. Bei der Documenta 14 in Kassel war sie im Team des Presse- und Informationszentrums. Darüber hinaus hat sie 2019 beim Steirischen Herbst in Graz als Kommunikationsassistenz gearbeitet. Daneben ist sie für verschiedene kleinere internationale Film- und Kunstfestivals im Bereich Organisation tätig."
     
   - title : "Veronika Wagner"
     image : "assets/images/team/veronika.jpeg"
@@ -184,52 +184,52 @@ projekte-home-items:
 sponsor-slider-items:
 
   - logo: "assets/images/sponsor-logo/BKM.png"
-    url: "http://"
+    url: "https://www.bundesregierung.de/breg-de/bundesregierung/staatsministerin-fuer-kultur-und-medien"
     
   - logo: "assets/images/sponsor-logo/Neustart.png"
-    url: "#"
+    url: "https://neustartkultur.de/"
     
   - logo: "assets/images/sponsor-logo/NPN.png"
-    url: "#"
+    url: "https://www.jointadventures.net/service/ueber-uns/walter-heun.html"
 
   - logo: "assets/images/sponsor-logo/arrivo.png"
-    url: "#"
+    url: "https://www.s27.de/portfolio/arrivo/"
 
   - logo: "assets/images/sponsor-logo/S27.png"
-    url: "#"
+    url: "https://www.s27.de/"
 
   - logo: "assets/images/sponsor-logo/mondiale.png"
-    url: "#"
+    url: "https://berlin-mondiale.de/de/"
 
   - logo: "assets/images/sponsor-logo/tf-logo-schule-2020-web.png"
-    url: "#"
+    url: "https://www.tanzfabrik-berlin.de/"
     
   - logo: "assets/images/sponsor-logo/urbanepraxis.png"
-    url: "#"
+    url: "https://www.urbanepraxis.berlin"
 
   - logo: "assets/images/sponsor-logo/BKM.png"
-    url: "#"
+    url: "https://www.bundesregierung.de/breg-de/bundesregierung/staatsministerin-fuer-kultur-und-medien"
     
   - logo: "assets/images/sponsor-logo/Neustart.png"
-    url: "#"
+    url: "https://neustartkultur.de/"
     
   - logo: "assets/images/sponsor-logo/NPN.png"
-    url: "#"
+    url: "https://www.jointadventures.net/service/ueber-uns/walter-heun.html"
 
   - logo: "assets/images/sponsor-logo/arrivo.png"
-    url: "#"
+    url: "https://www.s27.de/portfolio/arrivo/"
 
   - logo: "assets/images/sponsor-logo/S27.png"
-    url: "#"
+    url: "https://www.s27.de/"
 
   - logo: "assets/images/sponsor-logo/mondiale.png"
-    url: "#"
+    url: "https://berlin-mondiale.de/de/"
 
   - logo: "assets/images/sponsor-logo/tf-logo-schule-2020-web.png"
-    url: "#"
+    url: "https://www.tanzfabrik-berlin.de/"
     
   - logo: "assets/images/sponsor-logo/urbanepraxis.png"
-    url: "#"
+    url: "https://www.urbanepraxis.berlin"
 
 #-------------------------------
 # Contact Section
