@@ -25,7 +25,7 @@ Die Salons werden an für kulturelle Veranstaltungen bislang unerschlossenen Ort
 Juli 2021 - Ausufern Programm der Uferstudios Wedding
 
 #### [Raumverstehen #2](salon2)
-31\. Juli 2021 - Deep Mapping & Sensory Cycling - Philip Boos mit Eva Nöthen & Lea Bauer
+31\. Juli 2021 - Deep Mapping & Sensory Cycling - Philip Boos
 
 #### [Raumverstehen #3](salon3)
 August 2021 - Runder Tisch für Liegenschaftspolitik

@@ -1,14 +1,16 @@
 ---
 layout: projekte
-title:  "Juni 2021 - Ausufern Programm der Uferstudios Wedding"
+title:  "31. Juli 2021 - Deep Mapping & Cycling Spaces - Philip Boos"
 image:  assets/images/salon/Salon_WebHeader_blue.png
 excerpt: "
-Uferstudios - Juni 2021
+Deep Mapping
 "
-
 
 
 ---
 
-Raumverstehen #2 findet in Kooperation mit der Programmreihe “Ausufern” der [Uferstudios](https://www.uferstudios.com/projekte/ausufern/) im Wedding statt. Ausufern ist eine jährliche eintrittsfreie Veranstaltungsreihe, die künstlerische Projekte zeigt, in denen die gemeinsame Suche nach Verbindungen von Kunst und Stadt, Künstler*innen und Bürger*innen im Mittelpunkt steht.
+Raumverstehen #3 fragt mit der Methode des Deep Mapping nach individuellen Situationen der Beteiligten mit einem Fokus auf Raum. Aus direkten (subjektiven) Wahrnehmungen, Erinnerungen und Assoziationen wird eine kartographische Produktion abgeleitet, die die Vielschichtigkeit eines Ortes und dessen Umgebung sowie persönliche Relevanzen abbildet. Durch eine Zusammenstellung dieser individuellen Perspektiven soll ein kollektives Bewusstsein für individuelle räumlich konnotierte Augenblicke geschaffen werden, und auf möglichst nicht-reduktive Weise kartographisch abgebildet werden. Gleichzeitig wird auf die unvermeidbare Reduktion in kartographischen Repräsentationen hingewiesen. Ziel ist es, mit geschärftem Bewusstsein und Achtsamkeit des Selbst einen Kontrast zum routinierten, beschleunigten Alltag zu setzen. Deep Mapping ermöglicht eine persönliche Erfahrung, in der gesellschaftliche Diskurse und persönliche Narrative einander nicht ausschließen, sondern nebeneinander koexistieren können, auch wenn sie einander widersprechen. Gerade diese Widersprüche aufzuzeigen stellt eine Stärke der Methode dar.
 
+## <br> 
+### Ko-Kurator: Philip Boos
+Philip Boos ist Humangeograph und Stadtforscher. Studium Geographische Wissenschaften an der Freien Universität sowie Stadtgeographie an der Humboldt-Universität zu Berlin. 2016-2021 Wissenschaftlicher Mitarbeiter am Institut für Sozialinnovation, Berlin. Forschungsinteressen sind Raum- und Umweltwahrnehmung, Fahrradmobilität, sowie Lebensqualität in Städten.

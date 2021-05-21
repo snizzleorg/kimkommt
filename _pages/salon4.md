@@ -1,6 +1,6 @@
 ---
 layout: projekte
-title:  "21. August 2021 - Sabine Zahn / lovelabours"
+title:  "20. August 2021 - Sabine Zahn / lovelabours"
 image:  assets/images/salon/Salon_WebHeader_blue.png
 excerpt: "
 Sabine Zahn
