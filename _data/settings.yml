@@ -184,7 +184,7 @@ projekte-home-items:
 sponsor-slider-items:
 
   - logo: "assets/images/sponsor-logo/BKM.png"
-    url: "#"
+    url: "http://"
     
   - logo: "assets/images/sponsor-logo/Neustart.png"
     url: "#"
