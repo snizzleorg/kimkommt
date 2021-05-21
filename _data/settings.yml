@@ -200,7 +200,7 @@ sponsor-slider-items:
   - logo: "assets/images/sponsor-logo/tf-logo-schule-2020-web.png"
     url: "#"
 
-  - logo: "assets/images/sponsor-logo/s27.png"
+  - logo: "assets/images/sponsor-logo/S27.png"
     url: "#"
     
   - logo: "assets/images/sponsor-logo/urbanepraxis.png"
@@ -222,6 +222,12 @@ sponsor-slider-items:
     url: "#"
 
   - logo: "assets/images/sponsor-logo/tf-logo-schule-2020-web.png"
+    url: "#"
+
+  - logo: "assets/images/sponsor-logo/S27.png"
+    url: "#"
+    
+  - logo: "assets/images/sponsor-logo/urbanepraxis.png"
     url: "#"
 
 #-------------------------------
