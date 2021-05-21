@@ -42,7 +42,7 @@ September 2021 - Maria Muñoz-Duyos / Berlin Mondiale
 <br>
 
 ![Salon](/assets/images/salon/GabiSusanne.jpg "Foto Credit: Frank Post"){: width="50%" style="float:right; padding-right:0px; padding-left:24px; padding-top:12px; min-width:500px"}
-### Gabriele Reuter und Susanne Martin
+### Gabriele Reuter & Susanne Martin
  arbeiten und performen seit ca. 2010 in unterschiedlichen Kontexten und Performance Formaten mit Schwerpunkt Improvisation zusammen. Im Zeitraum 2011 - 2017 entwickelten und moderierten sie zwölf Salonformate. Unter dem Namen “Susi & Gabi’s Salon - 100 Fragen an die Improviation” trafen über 50 Gastkünstler*innen in Berlin, Nottingham, Leicester und Plymouth auf ein aktiviertes und interessiertes Publikum. Die Salon wurden u.a. als Festival-Specials für das Tanz Hoch Zwei Festival der Tanzfabrik und das nottdance Festival in Nottingham entwickelt.
 Eine Dokumentation zu den bisherigen Salons finden Sie [hier](http://www.susannemartin.de/category/salons/). 
 
