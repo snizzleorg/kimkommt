@@ -38,7 +38,7 @@ Juli 2021 - Deep Mapping - Philip Boos mit Eva Nöthen & Lea Bauer
 September 2021 - Maria Muñoz-Duyos / Berlin Mondiale
 
 
-*Die genauen Daten und Spielorte werden bis Ende März/April hier bekanntgegeben.*
+*Die genauen Daten und Spielorte werden bis Mitte Juni hier bekanntgegeben.*
 
 <br>
 <br>
