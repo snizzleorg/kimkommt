@@ -204,8 +204,8 @@ sponsor-slider-items:
   - logo: "assets/images/sponsor-logo/tf-logo-schule-2020-web.png"
     url: "https://www.tanzfabrik-berlin.de/"
     
-  - logo: "assets/images/sponsor-logo/urbanepraxis.png"
-    url: "https://www.urbanepraxis.berlin"
+#  - logo: "assets/images/sponsor-logo/urbanepraxis.png"
+#    url: "https://www.urbanepraxis.berlin"
 
   - logo: "assets/images/sponsor-logo/BKM.png"
     url: "https://www.bundesregierung.de/breg-de/bundesregierung/staatsministerin-fuer-kultur-und-medien"
@@ -228,8 +228,8 @@ sponsor-slider-items:
   - logo: "assets/images/sponsor-logo/tf-logo-schule-2020-web.png"
     url: "https://www.tanzfabrik-berlin.de/"
     
-  - logo: "assets/images/sponsor-logo/urbanepraxis.png"
-    url: "https://www.urbanepraxis.berlin"
+#  - logo: "assets/images/sponsor-logo/urbanepraxis.png"
+#    url: "https://www.urbanepraxis.berlin"
 
 #-------------------------------
 # Contact Section
