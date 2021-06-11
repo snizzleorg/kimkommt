@@ -22,7 +22,7 @@ Die Salons werden an für kulturelle Veranstaltungen bislang unerschlossenen Ort
 
 ### Termine
 #### [Raumverstehen #1](salon1)
-Juli 2021 - Ausufern Programm der Uferstudios Wedding
+2\. Juli 2021 - Ausufern Festival der Uferstudios Wedding
 
 #### [Raumverstehen #2](salon2)
 31\. Juli 2021 - Deep Mapping & Sensory Cycling - Philip Boos
