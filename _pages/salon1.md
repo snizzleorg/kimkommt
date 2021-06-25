@@ -13,3 +13,4 @@ Bei AUSUFERN wird sich Raumverstehen mit der aktuellen Situation der Uferhallen 
 
 Die beiden Gastgeberinnen werden die wissenschaftlichen, planungstechnischen oder künstlerischen Beiträge der Gäste intensiv aus dem Blickwinkel der Choreografie beobachten, kommentieren und vom Publikum immer wieder körperliche Resonanzen dazu einfordern. Kurze Performances und Improvisationen werden die Beträge der Gäste unterbrechen, reflektieren und hinterfragen; Wahrnehmungsübungen des Publikums werden mit ortsspezifischen Details verbunden. 
 
+Anmeldung [hier](https://www.uferstudios.com/veranstaltungen/alle-veranstaltungen/event/2691?date=).
